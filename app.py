@@ -251,7 +251,7 @@ def plot_results(result, y_trimmed, sr, mfccs, mel_spec_db):
     values = list(result['all_probs'].values())
     bars = axs[3].bar(emotions, values)
     axs[3].set_title("Mental State Analysis", color='#e50914', fontweight='bold')
-    axs[3].set_ylabel("Probability", color='#d4af37')
+    axs[3].set_ylabel("Probability", color='white')
     axs[3].set_ylim(0, 1)
     
 
