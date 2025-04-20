@@ -596,7 +596,6 @@ def main():
     
     # Quick Recording Tab
     with tab2:
-        st.markdown("<div class='result-card'>", unsafe_allow_html=True)
         st.markdown("<p class='subtitle'>RAPID SUBJECT ASSESSMENT</p>", unsafe_allow_html=True)
         st.write("Capture a quick 7-second voice sample to analyze Professor's mental state.")
         
@@ -652,7 +651,6 @@ def main():
     
     # Real-time Analysis Tab
     with tab3:
-        st.markdown("<div class='result-card'>", unsafe_allow_html=True)
         st.markdown("<p class='subtitle'>CONTINUOUS SURVEILLANCE</p>", unsafe_allow_html=True)
         st.write("Monitor Professor's mental state in real-time using surveillance microphones.")
         
