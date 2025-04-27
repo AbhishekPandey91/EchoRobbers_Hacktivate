@@ -94,7 +94,7 @@ The system uses a custom CNN (Convolutional Neural Network) model created by the
 
 ## Team EchoRobbers
 
-- Team members( Me and Abhishek Pandey) who developed this project for BotRush 3.0 competition with a Money Heist theme
+- Team members( Me and Ayush Jadaun) who developed this project for BotRush 3.0 competition with a Money Heist theme
 
 ## Acknowledgments
 
